@@ -1,6 +1,6 @@
 fastapi[standard]
 sqlalchemy 
-pwdlib
+pwdlib[argon2]
 pyjwt
 psycopg2-binary
 streamlit
