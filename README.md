@@ -2,14 +2,6 @@
 
 A full-stack task management application built with **FastAPI** (backend) and **Streamlit** (frontend), featuring JWT authentication and PostgreSQL storage.
 
-## Screenshots
-
-### Login
-![Login Page](screenshots/login.png)
-
-### Register
-![Register Page](screenshots/register.png)
-
 ## Features
 
 - **User Authentication** — Register, login, and JWT-based session management
